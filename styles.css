@@ -1,2 +1,9 @@
 
 /* Your CSS Code here. */
+.delhi{
+	background-color: #f8fffe;
+	padding:15px;
+	border-left: 8px solid green;
+	font-weight: bold;
+	max-width: 600px;
+}
